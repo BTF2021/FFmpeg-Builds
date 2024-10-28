@@ -1,4 +1,4 @@
-# FFmpeg Static Auto-Builds
+# FFmpeg Static Builds
 A fork of [EIRTeam/FFmpeg-Builds](https://github.com/EIRTeam/ffmpeg-builds/), but even more stripped down
 
 Static Windows (x86_64) and Linux (x86_64) Builds of ffmpeg master and latest release branch.
